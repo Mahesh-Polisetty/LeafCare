@@ -13,7 +13,9 @@ Modern agriculture faces serious challenges including diseases that reduce crop 
 ## 🛠️ Tech Stack
 
 Language: Python
+
 IDE: Jupyter Notebook, PyCharm
+
 Libraries Used: TensorFlow, NumPy, Pandas, Scikit-learn, Pillow (PIL), Matplotlib, OpenCV
 
 ---
@@ -21,10 +23,14 @@ Libraries Used: TensorFlow, NumPy, Pandas, Scikit-learn, Pillow (PIL), Matplotli
 ## 📂 Dataset Information
 
 Sources:
+
   1. Kaggle: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset/data
   2. Mendeley: https://data.mendeley.com/datasets/hb74ynkjcn/1
+     
 Total Images: ~4500
+
 Classes: Healthy (2278) and Diseased (2225)
+
 Plant Types: Mango, Guava, Lemon, Basil, Pomegranate, Poplar, and others
 
 ---
